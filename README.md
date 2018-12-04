@@ -4,3 +4,6 @@ Version update:
    training adopts teacher forcing and the result shows the training error is
    decreasing.
 2. Batch code finished. 
+3. Can use nltk BLEU score
+4. No beam search during the training process.(Needs confirmation)
+
