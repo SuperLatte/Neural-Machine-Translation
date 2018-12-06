@@ -5,5 +5,7 @@ Version update:
    decreasing.
 2. Batch code finished. 
 3. Can use nltk BLEU score
-4. No beam search during the training process.(Needs confirmation)
+4. No beam search during the training process.(Confirmed by TA)
+5. Evaluation finished
+
 
