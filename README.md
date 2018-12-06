@@ -7,5 +7,8 @@ Version update:
 3. Can use nltk BLEU score
 4. No beam search during the training process.(Confirmed by TA)
 5. Evaluation finished
+6. greedy search completed
+7. beam search completed(tested, it works)
+8. batch-train, train-iteratoin finished
 
 
